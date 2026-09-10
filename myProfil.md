@@ -1,3 +1,3 @@
 # Hello! I am Muhammad Jundurrahman
-- *GitHub*: @your-github-username
+- *GitHub*: @jund-creator
 - *Favorite Programming Language*: Python / C++ / JavaScript
